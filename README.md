@@ -1,7 +1,10 @@
 # D-coupage-r-seaux-IP
 172.16.1.0 adresseréseau
+
 172.16.1.255 adresse diffusion
-Découpage symétrique:
+
+**DECOUPAGE SYMETRIQUE:**
+
 50 équiepement 2^6=64 / 64 adresse, 32-6= 26
 
 **Informatique**
